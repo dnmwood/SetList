@@ -5,3 +5,6 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+
+Setlist.create!(title: "setlist1", song_list: '[{"title" : "Nomu", "duration" : 90}, {"title" : "Atlas", "duration" : 100}, {"title" : "Faster", "duration" : 200000000000000000000000}, {"title" : "Witches", "duration" : 220}]')
