@@ -18,10 +18,15 @@ body {
 }
 
 div.container {
+  position: relative;
+  display: block;
+  text-align: center;
   margin-top: 80px;
   margin-left: 10px;
   margin-right: 10px;
-  width: 100%;
+  border: 3px black;
+  padding: 10px;
+  width: 60%;
   height: 100%;
   float: left;
   background: white;

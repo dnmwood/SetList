@@ -7,4 +7,4 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 
-Setlist.create!(title: "setlist1", song_list: '[{"title" : "Nomu", "duration" : 90}, {"title" : "Atlas", "duration" : 100}, {"title" : "Faster", "duration" : 200000000000000000000000}, {"title" : "Witches", "duration" : 220}]')
+Setlist.create!(title: "setlist1", song_list: '[{"title" : "Nomu", "duration" : 90}, {"title" : "Atlas", "duration" : 100}, {"title" : "Faster", "duration" : 2000}, {"title" : "Witches", "duration" : 220}]')
